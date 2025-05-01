@@ -1,6 +1,5 @@
 # Hi, I'm Dario D'Addamio 👋
 
-> Just trying to make cool useful things
 
 ![Hackathon Winner](https://img.shields.io/badge/5x%20Hackathon%20Winner-blueviolet?style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -11,6 +10,8 @@
 ![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+Just trying to make cool useful things
 
 ---
 
