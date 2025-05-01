@@ -7,6 +7,7 @@ Just trying to make cool useful things
 ## About Me
 
 - 🏆 5x Hackathon/Competition Winner
+  - SunHacks, Opportunity Hacks 2024, 3x Devils Invent
 - Currently working on:
   - **[Poolaris](https://poolaris.org/)**: The Gold Standard in Collegiate Pool Rating and Match Tracking
   - **Beta Alpha Psi website**: Overhauling ASU's BAP organization's current operations on Canvas, Excel, and legacy systems
