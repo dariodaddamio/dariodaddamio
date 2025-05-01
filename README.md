@@ -24,9 +24,12 @@
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dariodaddamio&theme=radical)
+## 📊 GitHub Stats
 
+![Dario's GitHub stats](https://github-readme-stats.vercel.app/api?username=dariodaddamio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariodaddamio&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dariodaddamio&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dariodaddamio&theme=radical)
 ---
 
 
