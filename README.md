@@ -11,7 +11,7 @@ Just trying to make cool useful things
   - **[Poolaris](https://poolaris.org/)**: The Gold Standard in Collegiate Pool Rating and Match Tracking
   - **Beta Alpha Psi website**: Overhauling ASU's BAP organization's current operations on Canvas, Excel, and legacy systems
 - Interested in augmented reality and virtual reality for digital twins and data analysis
-- Experienced in brand development and graphic design 
+- Experienced in brand development and graphic design (Adobe products and Figma)
 
 ---
 
