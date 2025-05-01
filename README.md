@@ -1,16 +1,5 @@
 # Hi, I'm Dario D'Addamio 👋
 
-
-![Hackathon Winner](https://img.shields.io/badge/5x%20Hackathon%20Winner-blueviolet?style=for-the-badge)
-![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Vite.js](https://img.shields.io/badge/Vite.js-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 Just trying to make cool useful things
 
 ---
@@ -35,7 +24,6 @@ Just trying to make cool useful things
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariodaddamio&layout=compact&theme=radical)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=dariodaddamio&theme=radical)
 
 ---
