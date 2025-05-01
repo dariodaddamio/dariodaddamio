@@ -1,7 +1,6 @@
 # Hi, I'm Dario D'Addamio 👋
 
-Just trying to make cool useful things
-
+> Just trying to make cool useful things
 ---
 
 ## About Me
