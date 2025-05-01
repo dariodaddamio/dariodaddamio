@@ -1,6 +1,6 @@
 # Hi, I'm Dario D'Addamio 👋
 
-> "Just trying to make cool things"
+> Just trying to make cool useful things
 
 ![Hackathon Winner](https://img.shields.io/badge/5x%20Hackathon%20Winner-blueviolet?style=for-the-badge)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
