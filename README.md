@@ -1,7 +1,5 @@
 # Hi, I'm Dario D'Addamio 👋
-
 ![Tagline](https://img.shields.io/badge/Just%20trying%20to%20make%20cool%20useful%20things-23272F?style=for-the-badge&logo=star)
----
 
 ## About Me
 
