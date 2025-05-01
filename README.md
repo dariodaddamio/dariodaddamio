@@ -11,7 +11,7 @@
     - Doing frontend while [Dhruv](https://github.com/materwelonDhruv) works on the backend
   - **Beta Alpha Psi website**: Overhauling ASU's BAP organization's current operations on Canvas, Excel, and legacy systems
     - Working with: [Ronald](https://github.com/ronaldmcinnes), [Ashish](https://github.com/ashcodex505), [Abhave](https://github.com/abhave1), and [Aditya](https://github.com/dittygoops)
-- Interested in augmented reality and virtual reality for digital twins and data analysis
+- Interested in augmented reality and virtual reality for digital twins and data analysis, and trying to learn quantitative finance/analysis
 - Experienced in brand development and graphic design (Adobe products and Figma)
 
 ---
