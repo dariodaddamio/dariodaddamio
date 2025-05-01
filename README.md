@@ -25,6 +25,7 @@ Just trying to make cool useful things
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dariodaddamio&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariodaddamio&layout=compact&theme=radical)
 ---
 
 
