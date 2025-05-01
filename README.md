@@ -1,5 +1,6 @@
 # Hi, I'm Dario D'Addamio 👋
 ![Tagline](https://img.shields.io/badge/Just%20trying%20to%20make%20cool%20useful%20things-23272F?style=for-the-badge&logo=star)
+[![Linktree](https://img.shields.io/badge/Linktree-00C300?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dariodaddamio)
 
 ## About Me
 
@@ -28,6 +29,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariodaddamio&layout=compact&theme=radical)
 ---
 
-
-[![Linktree](https://img.shields.io/badge/Linktree-00C300?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/dariodaddamio)
 
