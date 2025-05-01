@@ -7,7 +7,9 @@
   - SunHacks, Opportunity Hacks 2024, 3x Devils Invent
 - Currently working on:
   - **[Poolaris](https://poolaris.org/)**: The Gold Standard in Collegiate Pool Rating and Match Tracking
+    - Doing frontend while Dhruv Jain, [@materwelon](https://github.com/materwelonDhruv), works on the backend
   - **Beta Alpha Psi website**: Overhauling ASU's BAP organization's current operations on Canvas, Excel, and legacy systems
+    - Working with: [Ronald](https://github.com/ronaldmcinnes), [Ashish](https://github.com/ashcodex505), [Abhave](https://github.com/abhave1), and [Aditya](https://github.com/dittygoops)
 - Interested in augmented reality and virtual reality for digital twins and data analysis
 - Experienced in brand development and graphic design (Adobe products and Figma)
 
