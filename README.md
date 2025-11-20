@@ -10,7 +10,7 @@
   - Writing paper for MUM Conference from study @ Human Computer Interaction Lab @ Humboldt University, Berlin, Germany
   - **[Poolaris](https://poolaris.org/)**: The Gold Standard in Collegiate Pool Rating and Match Tracking
     - Doing frontend while [Dhruv](https://github.com/materwelonDhruv) works on the backend
-  - **[Slate](https://slatedraw.com/)**: Reimagining learning for K-Higher Education
+  - **[Slate](https://slatedraw.com/)**: Redefining teaching with AI for K-Higher Education
     - With [Ronald](https://github.com/ronaldmcinnes/)
 - Most of my repositories are private, so check my [LinkedIn](https://www.linkedin.com/in/dariodaddamio) for detailed posts and projects, and to see what I'm up to!
 - Interested in augmented reality and virtual reality for digital twins and data analysis, and trying to learn quantitative finance/analysis
