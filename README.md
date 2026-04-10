@@ -7,13 +7,11 @@
 - 🏆 5x Hackathon/Competition Winner
   - SunHacks, Opportunity Hacks 2024, 3x Devils Invent
 - Currently working on:
-  - Writing paper for ACM CHI 2026 on [N-WAVE](https://github.com/HCIstudio/N-WAVE), a result of my user study at Humboldt University in Berlin
   - **[Poolaris](https://poolaris.org/)**: The Gold Standard in Collegiate Pool Rating and Match Tracking
-    - Doing frontend while [Dhruv](https://github.com/materwelonDhruv) works on the backend
-  - **[Slate](https://slatedraw.com/)**: Redefining teaching with AI for K-Higher Education
-    - With [Ronald](https://github.com/ronaldmcinnes/)
+    - Doing frontend and branding while [Dhruv](https://github.com/materwelonDhruv) works on the backend
+  - Home services platform...
 - Most of my repositories are private, so check my [LinkedIn](https://www.linkedin.com/in/dariodaddamio) for detailed posts and projects, and to see what I'm up to!
-- Interested in augmented reality and virtual reality for digital twins and data analysis, and trying to learn quantitative finance/analysis
+- Dipping my toes in mixed reality for digital twins and data analysis, and trying to learn quantitative finance/analysis
 - Experienced in brand development, product design, and graphic design (Adobe products and Figma)
 
 ---
